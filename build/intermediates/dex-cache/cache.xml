@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_af527fb313dff20013f390c3edf4e1416c75a4e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7976c851e8bba074fe931304c25d143fca363eb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_ecf4c8c077287925c8687219ec85cd44b7faeecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a857f5f7b960d5fe5ce7f273e4cd1191cbcc2c29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_78b1910c6d6b8cc08940b43b14417b62ab6002f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_170262c20fb9191de1b32f076c47f43451e5ddf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bb7d8b1e363fd28976526ad93078c68e135aef46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e377d4238365233b825620a0967648cd3d465364\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_34ac1a1230638f63aff0f3ae235f26c3fda9e264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2061f978f06d0ce8cbbcf423e2b8a11d452be7f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_20ad120add3e4e4203b08259b7d765754a4baba0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2ae9cf1f37dfe8c4bcb49a71e67151bdd955b539">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_565bf218fd36377116ac28dfe1ae136417f2ef57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_eee32e14e11a4e1c57efd0c4bec21af6a196c99d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_788cbbe720a1c6e8e0c6da4b65835af9779115b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="31b94292ef1010a065374c1b4c3a90942040b26b">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_886c9affaf01f11bc02c4c3b58d0aea76e0922f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_8f0b50d3e92c920863a654cfbfeacdd4cb29e95c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7c3ca766f7a50edda8ee1cf27e086f1b14131ff7\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Super Hello World!</string>
+    <string name="ActMainText">.:: Choose an option! ::.</string>
+    <string name="button">~ Salute ~</string>
+    <string name="button2">~ Data Search ~</string>
+    <string name="rtnbutton">~ Back ~</string>
+    <string name="salutetxt">Hello, it\'s me</string>
+
+</resources>
