@@ -13,12 +13,12 @@
     android:background="@drawable/main_bg2">
 
     <Button
-        android:text="@string/button"
+        android:text="@string/MainButton1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:id="@+id/button1" />
+        android:id="@+id/mainbutton1" />
 
     <TextView
         android:text="@string/ActMainText"
@@ -36,13 +36,13 @@
         android:layout_centerHorizontal="true" />
 
     <Button
-        android:text="@string/button2"
+        android:text="@string/MainButton2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/button1"
+        android:layout_below="@+id/mainbutton1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="5dp"
-        android:id="@+id/button2" />
+        android:id="@+id/mainbutton2" />
 
 
 </RelativeLayout>

@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">Super Hello World!</string>
-    <string name="ActMainText">.:: Choose an option! ::.</string>
-    <string name="button">~ Salute ~</string>
-    <string name="button2">~ Data Search ~</string>
-    <string name="rtnbutton">~ Back ~</string>
+    <string name="ActMainText">.:: Menu Principal ::.</string>
+    <string name="ActQuizTitle">.:: Trivia WolfByte ::.</string>
+    <string name="MainButton1">~ \"Olá Mundo\" ~</string>
+    <string name="MainButton2">~ Quiz ~</string>
+    <string name="FinishButton">~ Menu Principal ~</string>
     <string name="salutetxt">Hello, it\'s me</string>
-
+    <string name="ActQuizSubtitle">
+        !! Bem-vindo !!\n
+        Este é o nosso mini Quiz com perguntas de conhecimentos gerais.
+        Está pronto para embarcar neste desafio e testar seus conhecimentos?
+    </string>
 </resources>

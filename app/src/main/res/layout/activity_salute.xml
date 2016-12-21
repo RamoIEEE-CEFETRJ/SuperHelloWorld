@@ -12,7 +12,7 @@
     tools:context="com.example.felipe.superhelloworld.SaluteActivity">
 
     <Button
-        android:text="@string/rtnbutton"
+        android:text="@string/FinishButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"

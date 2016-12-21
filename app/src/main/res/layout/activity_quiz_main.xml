@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_quiz_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.felipe.superhelloworld.QuizMainActivity"
+    android:background="@drawable/quiz_bg">
+
+    <TextView
+        android:text="@string/ActQuizTitle"
+        android:textSize="@dimen/TitleText"
+        android:textColor="@color/colorTitleText"
+        android:shadowColor="@color/colorShadow"
+        android:shadowDx="1.5"
+        android:shadowDy="1.3"
+        android:shadowRadius="4.0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:id="@+id/ActQuizTitle" />
+
+    <TextView
+        android:text="@string/ActQuizSubtitle"
+        android:textSize="22sp"
+        android:textColor="@color/colorTitleText"
+        android:shadowColor="@color/colorShadow"
+        android:shadowDx="1.5"
+        android:shadowDy="1.3"
+        android:shadowRadius="4.0"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ActQuizTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:id="@+id/ActQuizSubtitle" />
+
+    <ImageView
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        app:srcCompat="@android:drawable/menuitem_background"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/centerReference" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="120dp"
+        app:srcCompat="@drawable/challengeaccepted"
+        android:layout_below="@id/ActQuizSubtitle"
+        android:layout_alignRight="@id/centerReference"
+        android:layout_alignEnd="@id/centerReference"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginEnd="0dp"
+        android:id="@+id/imageButtonAccept" />
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        app:srcCompat="@drawable/nope"
+        android:layout_below="@id/ActQuizSubtitle"
+        android:layout_alignLeft="@id/centerReference"
+        android:layout_alignStart="@id/centerReference"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginStart="30dp"
+        android:id="@+id/imageButtonDeny" />
+
+</RelativeLayout>
