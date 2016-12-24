@@ -12,37 +12,49 @@
     android:duplicateParentState="false"
     android:background="@drawable/main_bg2">
 
-    <Button
-        android:text="@string/MainButton1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/mainbutton1" />
-
     <TextView
         android:text="@string/ActMainText"
         android:textSize="@dimen/TitleText"
         android:textColor="@color/colorTitleText"
         android:shadowColor="@color/colorShadow"
-        android:shadowDx="1.5"
-        android:shadowDy="1.3"
+        android:shadowDx="2.0"
+        android:shadowDy="3.0"
         android:shadowRadius="4.0"
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/ActMainTextView"
         android:layout_alignParentTop="true"
         android:layout_marginTop="32dp"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+
+        android:id="@+id/ActMainTextView"/>
+
+    <Button
+        android:text="@string/MainButton1"
+        android:background="@drawable/opt_button_bg"
+        android:paddingLeft="20dp"
+        android:paddingStart="20dp"
+        android:paddingRight="20dp"
+        android:paddingEnd="20dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+
+        android:id="@+id/mainbutton1" />
 
     <Button
         android:text="@string/MainButton2"
+        android:background="@drawable/opt_button_bg"
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/mainbutton1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="5dp"
-        android:id="@+id/mainbutton2" />
+
+        android:id="@+id/mainbutton2"/>
 
 
 </RelativeLayout>

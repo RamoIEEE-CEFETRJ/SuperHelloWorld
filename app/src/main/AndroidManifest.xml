@@ -17,7 +17,10 @@
         </activity>
         <activity android:name=".SaluteActivity" />
         <activity android:name=".QuizMainActivity" />
-        <activity android:name=".PlayActivity"></activity>
+        <activity android:name=".PlayActivity" />
+        <activity android:name=".RespErrada" />
+        <activity android:name=".RespCerta" />
+        <activity android:name=".PointsActivity"></activity>
     </application>
 
 </manifest>

@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "189477593309",
+    "firebase_url": "https://triviafortrial.firebaseio.com",
+    "project_id": "triviafortrial",
+    "storage_bucket": "triviafortrial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189477593309:android:95058fc008d08077",
+        "android_client_info": {
+          "package_name": "com.example.pedro.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189477593309-nuce8lkrfod0um5q59erccqujaei4319.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pedro.quiz",
+            "certificate_hash": "05425F25B8886016863431FF3020E664F9B79A46"
+          }
+        },
+        {
+          "client_id": "189477593309-ef8pe6c38oo3mci4aqo16t22vs1o6t49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXirPFO6yfW47b8Q7igmsISud1Hex9yN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189477593309-ef8pe6c38oo3mci4aqo16t22vs1o6t49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189477593309:android:19ca1545a8035a4b",
+        "android_client_info": {
+          "package_name": "com.example.luizfilipeferreira.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189477593309-2tvukpihrcb0lv59vrh1ivha76e2haag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luizfilipeferreira.myapplication",
+            "certificate_hash": "88A05448C23533DCE435D2727FDBE057A666803E"
+          }
+        },
+        {
+          "client_id": "189477593309-ef8pe6c38oo3mci4aqo16t22vs1o6t49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXirPFO6yfW47b8Q7igmsISud1Hex9yN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189477593309-ef8pe6c38oo3mci4aqo16t22vs1o6t49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189477593309:android:ae2cc1994e1f5fe9",
+        "android_client_info": {
+          "package_name": "com.example.raphael.myfirstapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189477593309-ef8pe6c38oo3mci4aqo16t22vs1o6t49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXirPFO6yfW47b8Q7igmsISud1Hex9yN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189477593309:android:4369c2b636c3380d",
+        "android_client_info": {
+          "package_name": "com.example.felipe.superhelloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189477593309-r2fuojm8aek3iq6kflru41l1gttcpoju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.felipe.superhelloworld",
+            "certificate_hash": "1666D2D5E3EFF98FE634C2DDAA3B58C2BE666C26"
+          }
+        },
+        {
+          "client_id": "189477593309-ef8pe6c38oo3mci4aqo16t22vs1o6t49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXirPFO6yfW47b8Q7igmsISud1Hex9yN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189477593309-ef8pe6c38oo3mci4aqo16t22vs1o6t49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

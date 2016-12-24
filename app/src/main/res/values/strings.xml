@@ -1,14 +1,41 @@
 <resources>
+    <!--TÍTULOS E TEXTOS-->
     <string name="app_name">Super Hello World!</string>
     <string name="ActMainText">.:: Menu Principal ::.</string>
     <string name="ActQuizTitle">.:: Trivia WolfByte ::.</string>
-    <string name="MainButton1">~ \"Olá Mundo\" ~</string>
-    <string name="MainButton2">~ Quiz ~</string>
-    <string name="FinishButton">~ Menu Principal ~</string>
     <string name="salutetxt">Hello, it\'s me</string>
     <string name="ActQuizSubtitle">
         !! Bem-vindo !!\n
         Este é o nosso mini Quiz com perguntas de conhecimentos gerais.
         Está pronto para embarcar neste desafio e testar seus conhecimentos?
     </string>
+    <string name="FinalPoints">Acertos: %1$d\nErros: %2$d\n---------------\nTotais: %3$d</string>
+    <!--BOTÕES-->
+    <string name="MainButton1">\"Olá Mundo\"</string>
+    <string name="MainButton2">Quiz</string>
+    <string name="FinishButton">Menu Principal</string>
+    <string name="NextButton">Próxima</string>
+
+
+    <!--STRINGS DAS PERGUNTAS-->
+    <string name="TitleQuestion">Pergunta %1$d</string>
+    <!--PERGUNTA 01-->
+    <string name="Enunciado01">Qual o nome do processo\\cerimônia pelo qual novos papas são escolhidos?</string>
+    <string name="Opt1A">Conclave</string>
+    <string name="Opt1B">Votação Clericaniana</string>
+    <string name="Opt1C">Votação Clérica</string>
+    <string name="Opt1D">Cardus</string>
+    <!--PERGUNTA 02-->
+    <string name="Enunciado02">Qual o nome do sistema de encriptação nazista conhecido pela sua eficiência durante a Segunda Guerra Mundial?</string>
+    <string name="Opt2A">Enigma</string>
+    <string name="Opt2B">Albus</string>
+    <string name="Opt2C">Puzzle</string>
+    <string name="Opt2D">Reich</string>
+    <!--PERGUNTA 03-->
+    <string name="Enunciado03">Qual dos seguintes países não está no Hemifério Sul?</string>
+    <string name="Opt3A">Egito</string>
+    <string name="Opt3B">Peru</string>
+    <string name="Opt3C">Madagascar</string>
+    <string name="Opt3D">Alaska</string>
+
 </resources>

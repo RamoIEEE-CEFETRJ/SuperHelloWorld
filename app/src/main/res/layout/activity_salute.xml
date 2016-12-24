@@ -13,21 +13,30 @@
 
     <Button
         android:text="@string/FinishButton"
+        android:background="@drawable/opt_button_bg"
+        android:paddingLeft="20dp"
+        android:paddingStart="20dp"
+        android:paddingRight="20dp"
+        android:paddingEnd="20dp"
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
+
         android:id="@+id/ReturnButton" />
 
     <TextView
         android:text="@string/salutetxt"
-        android:textColor="@color/colorTitleText"
+        android:textColor="#FFFF22"
         android:textSize="@dimen/TitleText"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textStyle="normal|bold"
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/SaluteText"
         android:layout_above="@+id/ReturnButton"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="30dp" />
+        android:layout_marginBottom="30dp"
+
+        android:id="@+id/SaluteText"/>
 </RelativeLayout>

@@ -3,7 +3,13 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorPrimaryLight">#6F90FF</color>
-    <color name="colorAccent">#00703C</color>
+    <color name="colorAccent">#009688</color>
+    <color name="colorPrimaryDarkRed">#8D0E0E</color>
+    <color name="colorPrimaryLightRed">#F58484</color>
+    <color name="colorPrimaryDarkGreen">#20921C</color>
+    <color name="colorPrimaryDarkerGreen">#1B5E20</color>
+    <color name="colorPrimaryLightGreen">#83F499</color>
     <color name="colorTitleText">#FFFFFF</color>
+    <color name="colorBoxText">#000000</color>
     <color name="colorShadow">#000000</color>
 </resources>

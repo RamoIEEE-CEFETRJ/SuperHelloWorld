@@ -8,5 +8,66 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.felipe.superhelloworld.PlayActivity">
+    tools:context="com.example.felipe.superhelloworld.PlayActivity"
+    android:background="@drawable/quiz_bg">
+
+    <TextView
+        android:text="TEXTVIEW PREVIEW\n\nText Preview Line 2"
+        android:textSize="@dimen/NormalText"
+        android:textColor="@color/colorBoxText"
+        android:textAlignment="center"
+
+        android:background="@drawable/text_box"
+        android:padding="20dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+
+        android:id="@+id/enunciado" />
+
+    <Button
+        android:text=""
+        android:textSize="@dimen/OptText"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/opt_button_bg"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/opt1"/>
+    <Button
+        android:text=""
+        android:textSize="@dimen/OptText"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/opt_button_bg"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/opt1"
+        android:layout_marginTop="5dp"
+        android:id="@+id/opt2" />
+    <Button
+        android:text=""
+        android:textSize="@dimen/OptText"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/opt_button_bg"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/opt2"
+        android:layout_marginTop="5dp"
+        android:id="@+id/opt3" />
+    <Button
+        android:text=""
+        android:textSize="@dimen/OptText"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/opt_button_bg"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/opt3"
+        android:layout_marginTop="5dp"
+        android:id="@+id/opt4" />
 </RelativeLayout>

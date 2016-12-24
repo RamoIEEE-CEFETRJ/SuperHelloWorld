@@ -3,6 +3,33 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_6a8ee830f7dc6d6289b4a8e3ef042a91a5fe5412\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_fcb925f7f26fb8960dc270e5d273f9475a3bcf69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_8a1ce596470c0bf9e57fa9d34be2d7186eb14c09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -21,30 +48,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_ecf4c8c077287925c8687219ec85cd44b7faeecd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
         <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a857f5f7b960d5fe5ce7f273e4cd1191cbcc2c29\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_78b1910c6d6b8cc08940b43b14417b62ab6002f9\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,30 +75,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e377d4238365233b825620a0967648cd3d465364\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_34ac1a1230638f63aff0f3ae235f26c3fda9e264\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2061f978f06d0ce8cbbcf423e2b8a11d452be7f5\classes.dex" />
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_03f45d5ea6eb1f1885b19521a1642e4644ef974e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -106,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0e9ad2dab3e19730a78cad73ac27f64ffcbfccbc">
+        sha1="725380c67dcf2b566ba02e6b1db0f0a04cff6421">
         <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_565bf218fd36377116ac28dfe1ae136417f2ef57\classes.dex" />
     </item>
     <item
@@ -129,11 +120,74 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_ecf4c8c077287925c8687219ec85cd44b7faeecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_78b1910c6d6b8cc08940b43b14417b62ab6002f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_34ac1a1230638f63aff0f3ae235f26c3fda9e264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e377d4238365233b825620a0967648cd3d465364\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2061f978f06d0ce8cbbcf423e2b8a11d452be7f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_58173b7fc3e6f77d5421b6ff152ec4034cd765aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_9ffe1070cae06ab97735b3bd6a7b62bd3ee1a235\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="31b94292ef1010a065374c1b4c3a90942040b26b">
+        sha1="460c549e0ee7ce735242ad91d6bc9c03c126cc14">
         <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_886c9affaf01f11bc02c4c3b58d0aea76e0922f0\classes.dex" />
     </item>
     <item
@@ -153,6 +207,24 @@
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
         <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7c3ca766f7a50edda8ee1cf27e086f1b14131ff7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_6597195ef31acb92b0a80de0149d70f2155d8d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Felipe\Documents\Faculdade\IEEE\WolfBytes\Projetos\Mobile\SuperHelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_12994482163ad44d6ab383fe43a63c25a3ebdc7a\classes.dex" />
     </item>
 
 </items>

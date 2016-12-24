@@ -17,8 +17,8 @@
         android:textSize="@dimen/TitleText"
         android:textColor="@color/colorTitleText"
         android:shadowColor="@color/colorShadow"
-        android:shadowDx="1.5"
-        android:shadowDy="1.3"
+        android:shadowDx="2.0"
+        android:shadowDy="3.0"
         android:shadowRadius="4.0"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -29,20 +29,18 @@
 
     <TextView
         android:text="@string/ActQuizSubtitle"
-        android:textSize="22sp"
-        android:textColor="@color/colorTitleText"
-        android:shadowColor="@color/colorShadow"
-        android:shadowDx="1.5"
-        android:shadowDy="1.3"
-        android:shadowRadius="4.0"
+        android:textSize="@dimen/NormalText"
+        android:textColor="@color/colorBoxText"
+        android:background="@drawable/text_box"
         android:textAlignment="center"
+        android:paddingBottom="5dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/ActQuizTitle"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp"
         android:id="@+id/ActQuizSubtitle" />
-
+    <!--Apenas um guia para posicionar as demais ImageViews-->
     <ImageView
         android:layout_width="1dp"
         android:layout_height="1dp"
